@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+  url: https://author-p155453-e1648365.adobeaemcloud.com/bin/franklin.delivery/infyedstraining/edsform/main
+  type: "markup"
+  suffix: ".html"
